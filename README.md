@@ -249,8 +249,8 @@ Feel free to use, modify, and distribute it for educational and research purpose
 Computer Science & Engineering Undergraduate  
 University of Moratuwa
 
-GitHub: https://github.com/yourusername  
-LinkedIn: https://www.linkedin.com/in/yourprofile
+GitHub: https://github.com/Kethmika2004 
+LinkedIn: https://www.linkedin.com/in/yasandu-kethmika-88a428337/
 
 ---
 ⭐ If you found this project useful, consider giving it a star on GitHub.
